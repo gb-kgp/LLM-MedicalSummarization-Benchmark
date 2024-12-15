@@ -2,7 +2,7 @@ from Bio import Entrez
 import sys
 import csv
 
-Entrez.email = 'gunjan.balde@gmail.com'
+Entrez.email = 'enter.email@gmail.com'
  
 def fetch_abstracts(pub_ids, retmax=1000, output_file='abstracts.csv'):    
     # Make sure requests to NCBI are not too big

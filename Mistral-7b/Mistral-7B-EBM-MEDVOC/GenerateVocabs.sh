@@ -21,7 +21,7 @@ do
                              -PAC_path VocabFiles_Mistral/PAC_All.vocab
 
   python UpdateVocab.py -dataset $data \
-                        -input_path /Users/gunjanbalde/Documents/SR-NG-MedVoc/SR-NG-MedVoc/Expert-Domain/Codebase_MTP_Ayush_Shakya/Codebase_Medical/Clin-Summ/Vocab-Adapt/ACL-ARR-Expts/Mistral-7b/Mistral-7B-EBM-MedicalLookup-Fragment/EBM_SplitMoreThan1_OOV.csv \
+                        -input_path /path/to/EBM_SplitMoreThan1_OOV.csv \
                         -vocab_path $data \
                         -dir_dump ./"$data"_Vocabs_MEDVOC_Mistral \
                         -message "All_OOV" \
