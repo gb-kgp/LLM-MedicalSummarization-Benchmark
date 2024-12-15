@@ -1,0 +1,1253 @@
+No acute findings
+
+Please provide the radiology report findings and the corresponding impressions
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+Negative for acute cardiopulmonary findings.
+
+Please provide the radiology
+++++++++++++++++++
+Negative chest.
+
+Please provide your answer in the format of a radiology report,
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary abnormality. Stable marked cardiomegaly and
+++++++++++++++++++
+No acute pulmonary disease.
+
+Please provide the radiology report findings and I
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+Postoperative changes of left upper lobectomy. No acute findings.
+++++++++++++++++++
+Chronic right hemidiaphragm elevation, mild right lung base airspace disease.
+++++++++++++++++++
+Mild cardiomegaly.
+
+Please provide your answer in the format of radiology reports
+++++++++++++++++++
+1. Sequela of old granulomatous infection.
+
+Please provide
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Negative chest x-XXXX.
+
+Please provide the radiology report findings and I
+++++++++++++++++++
+No focal airspace consolidation. Hyperexpanded lungs consistent with emphys
+++++++++++++++++++
+1. Low lung volumes with patchy bilateral scarring versus atelectasis.
+++++++++++++++++++
+No acute disease.
+
+Please provide your answer in the format of a radiology report,
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute pulmonary disease.
+
+Please provide the radiology report findings and the
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+##
+Finding: No ple
+++++++++++++++++++
+Negative for acute cardiopulmonary abnormality.
+
+Please provide the radi
+++++++++++++++++++
+No acute cardiopulmonary abnormality identified.
+
+Please provide the radiology
+++++++++++++++++++
+Clear lungs. No acute cardiopulmonary abnormality.
+
+Note:
+++++++++++++++++++
+No acute cardiopulmonary process. Stable chest examination.
+
+Please
+++++++++++++++++++
+1. No active disease.
+
+Please provide your answer in the format of a radiology
+++++++++++++++++++
+No radiographic evidence of acute cardiopulmonary disease.
+
+Please provide the radi
+++++++++++++++++++
+No acute abnormality identified.
+
+Please provide the radiology report findings, and
+++++++++++++++++++
+No active disease.
+
+Please provide the radiology report findings and I will summarize them
+++++++++++++++++++
+Negative chest x-XXXX.
+
+Please provide the radiology report findings and I
+++++++++++++++++++
+Stable cardiopulmonary examination.
+
+Please provide the radiology report findings
+++++++++++++++++++
+Mild low lung volumes without acute cardiopulmonary disease.
+
+Please provide the
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide your answer in the format
+++++++++++++++++++
+1. No evidence of acute disease. 2. Eventration of the right hem
+++++++++++++++++++
+1. No acute cardiopulmonary abnormality. 2. Normal card
+++++++++++++++++++
+1. No acute intrathoracic abnormality.
+
+Please provide the
+++++++++++++++++++
+1. Persistent elevation of the left hemidiaphragm.
+
+Please provide
+++++++++++++++++++
+No evidence of acute cardiopulmonary process.
+
+In this example, the radi
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+1. Unremarkable examination of the chest.
+
+Please provide an impression for
+++++++++++++++++++
+No acute cardiopulmonary abnormality, findings consistent with chronic emphys
+++++++++++++++++++
+No acute disease.
+
+Please provide the radiology report findings, and I will help
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+Low lung volume disease.
+
+Please provide your answer in the format of a radiology report,
+++++++++++++++++++
+No active disease.
+
+Please provide the radiology report findings and I will summarize them
+++++++++++++++++++
+No acute cardiopulmonary process.
+##
+Finding 5: Lungs
+++++++++++++++++++
+No active disease.
+
+Examples:
+
+* "No active disease"
+* "
+++++++++++++++++++
+No acute findings.
+
+Please provide your answer in the format of radiology reports,
+++++++++++++++++++
+1. No acute cardiopulmonary abnormalities.
+
+Please provide your
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+1. No acute cardiopulmonary process.
+
+Please provide the radiology
+++++++++++++++++++
+No acute cardiopulmonary findings
+
+Please provide your answer in the format of
+++++++++++++++++++
+1. No acute cardiopulmonary abnormality. 2. Stable
+++++++++++++++++++
+No active disease.
+
+Examples:
+
+* "No active disease"
+* "
+++++++++++++++++++
+No acute or active cardiac, pulmonary or pleural disease.
+
+Please provide
+++++++++++++++++++
+No radiographic evidence of acute cardiopulmonary disease.
+
+Please provide the radi
+++++++++++++++++++
+1. Clear lungs. No acute cardiopulmonary abnormality.
+++++++++++++++++++
+No acute cardiopulmonary abnormality detected.
+
+Please provide the radiology
+++++++++++++++++++
+No evidence of active disease.
+
+Please provide the radiology report findings and the corresponding impress
+++++++++++++++++++
+Moderate cardiomegaly with central pulmonary vasculature prominence, could
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute radiographic cardiopulmonary process.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+In this example, the radiology
+++++++++++++++++++
+1. No acute cardiopulmonary abnormality. 2. Stable
+++++++++++++++++++
+No acute or active cardiac, pulmonary or pleural disease.
+
+Please provide
+++++++++++++++++++
+1. Right apical pneumothorax measuring approximately 5 mm in thickness
+++++++++++++++++++
+No acute radiographic cardiopulmonary process.
+
+Please provide the radiology report
+++++++++++++++++++
+No evidence of active disease.
+
+Please provide the radiology report findings and I will help
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide the radiology report findings
+++++++++++++++++++
+Normal chest.
+
+Please provide your answer in the format of a radiology report, with
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+1. No evidence of active disease.
+##
+Finding: Heart size and pulmon
+++++++++++++++++++
+1. No acute pulmonary abnormality. 2. Cardiomegaly
+++++++++++++++++++
+No acute disease.
+
+Please provide your summary of the radiology report findings in the
+++++++++++++++++++
+1. No evidence of active disease.
+
+Please provide your answer in the format of radi
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+No acute disease. Granulomatous sequela.
+
+Please provide your answer in
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide your answer in the format
+++++++++++++++++++
+No acute cardiopulmonary findings. Slightly increased right base opacity may represent
+++++++++++++++++++
+No acute findings
+
+Please provide the radiology report findings and the corresponding impressions
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Chronic obstructive pulmonary disease (COPD) with emphysema.
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide the radiology report findings
+++++++++++++++++++
+1. No acute cardiopulmonary abnormality.
+
+Please provide your
+++++++++++++++++++
+Normal chest
+
+Please provide the radiology report findings and I will help you summarize
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+1. Chronic lung disease with worsened patchy opacities. 2.
+++++++++++++++++++
+Negative for acute cardiopulmonary abnormality.
+
+Please provide the radi
+++++++++++++++++++
+Hyperinflated lungs, air trapping versus inspiratory XXXX.
+
+Please provide the
+++++++++++++++++++
+No acute cardiopulmonary findings
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide an impression for each
+++++++++++++++++++
+No acute cardiopulmonary process. No evidence of active tuberculosis.
+++++++++++++++++++
+No evidence of active disease.
+
+Please provide the radiology report findings and I will help
+++++++++++++++++++
+No acute cardiopulmonary abnormalities.
+
+Please provide the radiology report
+++++++++++++++++++
+Negative chest x-XXXX.
+
+Please provide the radiology report findings and I
+++++++++++++++++++
+No acute cardiopulmonary finding.
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary disease. Resolution of previous lung disease.
+
+Please
+++++++++++++++++++
+No acute radiographic cardiopulmonary process.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+1. Curvilinear density in right midlung zone may represent pulmonary scarring
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide your answer in the format
+++++++++++++++++++
+1. No acute cardiopulmonary abnormality. 2. Diff
+++++++++++++++++++
+1. Mild basilar atelectasis. No acute cardiopulmonary
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Normal heart size. AICD leads in expected regions. No acute cardiopulmonary
+++++++++++++++++++
+Stable cardiomegaly.
+##
+Finding 5: Heart size is mild
+++++++++++++++++++
+No active disease.
+
+Examples:
+
+* "No active disease"
+* "
+++++++++++++++++++
+1. No evidence of active disease.
+
+Note: The examples provided are for illustration
+++++++++++++++++++
+1. Limited low lung volume exam. 2. No acute cardiopulmonary
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+1. Chest. Enlarged heart with possible pericardial effusion.
+++++++++++++++++++
+Unremarkable radiographs of the chest.
+
+Please provide the radiology report find
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide your answer in the format
+++++++++++++++++++
+Right lower lobe pneumonia with associated pleural effusion.
+
+Please provide your impression
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide an impression for each
+++++++++++++++++++
+1. Hiatal hernia. 2. Atelectasis.
+
+Please
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+Moderate cardiac failure with bilateral interstitial edema and cardiomeg
+++++++++++++++++++
+No evidence of active disease.
+
+Please provide your answer in the format of radiology report find
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+No acute or active cardiac, pulmonary or pleural disease.
+
+Please provide
+++++++++++++++++++
+No acute disease.
+
+Please provide an impression for each finding based on the provided examples.
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+No evidence of active disease.
+
+Please provide your interpretation of the radiology report findings based
+++++++++++++++++++
+1. No acute cardiopulmonary abnormality. 2. Stable
+++++++++++++++++++
+1. No evidence of active disease.
+##
+Finding: The heart size and pul
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+Chest: No acute cardiopulmonary finding. Right knee: Severe deg
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide your answer in the format of
+++++++++++++++++++
+No acute cardiopulmonary findings.
+##
+Finding: The heart size
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your interpretation of the
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your summary of the
+++++++++++++++++++
+No active disease.
+
+Examples:
+
+* "No active disease"
+* "
+++++++++++++++++++
+No acute disease.
+##
+
+Please provide your summary of the radiology report findings
+++++++++++++++++++
+Stable moderate COPD with emphysematous changes and atherosclerotic calc
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide the radiology report findings
+++++++++++++++++++
+Chronic obstructive pulmonary disease with no acute findings.
+
+Please provide
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+No active disease.
+
+Please provide the radiology report findings and I will summarize them
+++++++++++++++++++
+No acute cardiopulmonary abnormality identified.
+
+Please provide the radiology
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+In this example, the radiology
+++++++++++++++++++
+No acute disease.
+
+Please provide your answer in the format of an impression with minimal text
+++++++++++++++++++
+1. No evidence of active disease.
+
+Note: The examples provided are for illustration
+++++++++++++++++++
+1. No acute cardiopulmonary abnormality. 2. Chronic
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+Acute right-sided pleural effusion.
+
+Please provide your summary of the radi
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+Negative for acute abnormality.
+
+Please provide the radiology report findings and
+++++++++++++++++++
+No acute cardiopulmonary abnormalities. Stable scoliosis.
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+Mild cardiomegaly with platelike atelectasis.
+
+Please provide your
+++++++++++++++++++
+1. No evidence of active disease. 2. Monitor the lung nodule for any
+++++++++++++++++++
+No acute findings.
+
+Please provide an impression for each finding based on the examples provided
+++++++++++++++++++
+Stable chronic lung disease. No acute cardiopulmonary abnormalities.
+++++++++++++++++++
+No active disease.
+
+Examples:
+
+* "No active disease"
+* "
+++++++++++++++++++
+No acute findings.
+
+Please provide the radiology report findings and the corresponding impression
+++++++++++++++++++
+No active disease.
+
+Examples:
+
+* "No active disease"
+* "
+++++++++++++++++++
+No acute cardiopulmonary disease. Chronic degenerative changes in the spine
+++++++++++++++++++
+No acute cardiopulmonary disease.
+##
+Finding: PA and lateral
+++++++++++++++++++
+No acute cardiopulmonary disease. Chronic left hemidiaphragm elevation
+++++++++++++++++++
+1. Cardiac enlargement likely due to underlying cardiomegaly. 2.
+++++++++++++++++++
+No acute process.
+
+Please provide the radiology report findings and I will help you
+++++++++++++++++++
+No acute findings. Please note that fractures may not be demonstrated and consider additional imag
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute abnormality.
+
+Please provide your summary of the radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+1. No acute cardiopulmonary abnormalities.
+
+Please provide your
+++++++++++++++++++
+No acute disease.
+
+Please provide the radiology report findings and I will summarize
+++++++++++++++++++
+No acute disease.
+
+Please provide the radiology report findings and the corresponding impression for
+++++++++++++++++++
+No acute or active cardiac, pulmonary or pleural disease.
+
+Please provide
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide your answer in the format
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Normal chest exam.
+
+Please provide the radiology report findings and I will summarize
+++++++++++++++++++
+Hypoventilated lungs without acute cardiopulmonary abnormality.
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Low lung volumes. No acute cardiopulmonary abnormality.
+
+Please provide
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide an impression for each
+++++++++++++++++++
+No acute pulmonary disease.
+
+Please provide the radiology report findings, and
+++++++++++++++++++
+1. Borderline enlarged heart size. 2. Atherosclerosis
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+No evidence of active disease.
+
+Please provide the radiology report findings and the corresponding impress
+++++++++++++++++++
+No acute cardiopulmonary finding. Emphysema and degenerative changes of the
+++++++++++++++++++
+Normal chest radiograph.
+
+Please provide your answer in the format of a radiology report
+++++++++++++++++++
+Negative for acute cardiopulmonary disease.
+
+In this case, the radi
+++++++++++++++++++
+No active disease.
+
+Please provide the radiology report findings and I will summarize them
+++++++++++++++++++
+No acute cardiopulmonary abnormalities.
+
+Please provide the radiology report
+++++++++++++++++++
+Cardiomegaly with bibasilar airspace opacities.
+##
+Finding:
+++++++++++++++++++
+1. Adenopathy.
+
+Please provide your summary impression based on the provided
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+Negative chest x-XXXX.
+
+Please provide the radiology report findings and I
+++++++++++++++++++
+No acute cardiopulmonary abnormality identified.
+
+Please provide the radiology
+++++++++++++++++++
+Normal chest
+
+Please provide the radiology report findings and I will help you summarize
+++++++++++++++++++
+No acute cardiopulmonary process. Hyperinflation may be due to chronic resp
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your impression based on
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide the radiology report findings
+++++++++++++++++++
+Moderate cardiomegaly with narrowed mediastinal contours.
+
+Please provide
+++++++++++++++++++
+The opacities above the right fissure may represent a benign process such as XXXX
+++++++++++++++++++
+1. Right lower lobe airspace disease.
+##
+Finding: There is a
+++++++++++++++++++
+Cardiomegaly. Right PICC with tip overlying the right brachiocephalic
+++++++++++++++++++
+Heart enlargement, mild hypoinflation, and bilateral degenerative changes
+++++++++++++++++++
+1. No acute abnormality.
+
+Please provide your answer in the format of
+++++++++++++++++++
+Multiple bilateral pulmonary nodules. No acute disease.
+##
+Finding
+++++++++++++++++++
+Focal aneurysm of the descending thoracic aorta.
+
+Please
+++++++++++++++++++
+Normal chest
+
+Please provide the radiology report findings and I will help you summarize
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Stable right lung disease, likely related to prior radiation therapy.
+
+Please provide your answer
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+1. Cardiomegaly. 2. Right base granuloma. 3.
+++++++++++++++++++
+Right apical pneumothorax. No acute cardiopulmonary abnormality
+++++++++++++++++++
+1. No acute intrathoracic abnormality.
+
+Please provide an
+++++++++++++++++++
+No acute cardiopulmonary abnormality identified.
+
+Please provide the radiology
+++++++++++++++++++
+Stable moderate to marked cardiomegaly.
+##
+Finding 5: The
+++++++++++++++++++
+Mild bronchitis with no acute disease.
+
+Please provide your impression based on the
+++++++++++++++++++
+Focal atelectasis in the left lung base.
+##
+
+Please provide the radi
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Mild cardiomegaly. Tortuous aorta. Soft tissue density in
+++++++++++++++++++
+Limited view, negative for acute abnormality.
+
+Please provide the radiology report find
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your answer in the
+++++++++++++++++++
+No acute cardiopulmonary abnormality. Tortuosity of the thor
+++++++++++++++++++
+No acute cardiopulmonary disease
+
+Please provide the radiology report findings and
+++++++++++++++++++
+No active disease.
+
+Please provide your summary of the radiology report findings in the format
+++++++++++++++++++
+1. No acute cardiopulmonary finding. 2. Emphysema and
+++++++++++++++++++
+Chronic obstructive pulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+No acute process.
+
+Please provide the radiology report findings and I will summarize
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+In this example, the radi
+++++++++++++++++++
+No acute cardiopulmonary abnormality detected.
+
+Please provide the radiology
+++++++++++++++++++
+No acute cardiopulmonary abnormalities identified.
+
+Please provide your answer in
+++++++++++++++++++
+No acute cardiopulmonary abnormalities.
+
+Please provide the radiology report
+++++++++++++++++++
+No evidence of active cardiopulmonary disease.
+##
+
+Please provide the radiology
+++++++++++++++++++
+No acute abnormality.
+
+Please provide your answer in the format of an impression with
+++++++++++++++++++
+No radiographic evidence of acute cardiopulmonary disease
+
+Please provide your answer in
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your summary impressions based on
+++++++++++++++++++
+No active disease.
+
+Examples:
+
+* "No active disease"
+* "
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your impression based on
+++++++++++++++++++
+No acute cardiopulmonary abnormalities.
+
+Please provide your answer in the
+++++++++++++++++++
+No acute radiographic cardiopulmonary process.
+
+Please provide the radiology report
+++++++++++++++++++
+Negative chest.
+
+Please provide the radiology report findings and I will help you
+++++++++++++++++++
+No acute or chronic cardiopulmonary abnormalities.
+
+Please provide the
+++++++++++++++++++
+Negative chest x-XXXX.
+
+Please provide the radiology report findings and I
+++++++++++++++++++
+No acute cardiopulmonary abnormality. Stable chronic lung disease.
+++++++++++++++++++
+Normal chest
+
+Please provide the radiology report findings and I will help you summarize
+++++++++++++++++++
+No acute radiographic cardiopulmonary process.
+
+In this example, the radi
+++++++++++++++++++
+No acute cardiopulmonary abnormality. Degenerative changes in the shoulder
+++++++++++++++++++
+1. Probable left rib fractures. 2. Unknown etiology
+++++++++++++++++++
+1. No acute cardiopulmonary findings. 2. Stable em
+++++++++++++++++++
+No evidence of active disease.
+
+Please provide your summary impressions based on the provided radiology
+++++++++++++++++++
+Mild cardiomegaly.
+
+Please provide the radiology report findings and I will
+++++++++++++++++++
+1. No acute radiographic cardiopulmonary process.
+
+Please provide your
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide your answer in the format of
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Stable cardiomegaly and interstitial edema with improved aeration of lung bases
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide your summary impressions
+++++++++++++++++++
+No acute cardiopulmonary disease
+
+Please provide the radiology report findings and
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide your answer in the format of
+++++++++++++++++++
+No acute findings.
+
+In this example, the radiology report findings are summar
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Mild cardiomegaly, negative for pulmonary consolidation, pleural effusion
+++++++++++++++++++
+Lung consolidation and bilateral pleural fluid, likely due to XXXX.
+++++++++++++++++++
+Postsurgical changes of left axillary lymph node dissection. No acute
+++++++++++++++++++
+No significant radiographic abnormality.
+
+Please provide your answer in the format of radiology
+++++++++++++++++++
+No active disease.
+
+Examples:
+
+* "No active disease"
+* "
+++++++++++++++++++
+No acute process.
+##
+Finding: The cardiac contours are normal. The
+++++++++++++++++++
+No acute radiographic cardiopulmonary process.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide your answer in the format of
+++++++++++++++++++
+1. Mild atelectasis of left lung base. 2. Otherwise, no
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+1. No acute findings. 2. COPD with persistent mild ple
+++++++++++++++++++
+Negative.
+
+Please provide the radiology report findings, and I will help you summar
+++++++++++++++++++
+Chronic hyperexpansion of lungs, likely due to COPD.
+
+Please
+++++++++++++++++++
+Hypoinflation with no visible active cardiopulmonary disease.
+
+In each example
+++++++++++++++++++
+Normal chest x-ray.
+
+Please provide the radiology report findings and the corresponding
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide your impression based on the find
+++++++++++++++++++
+No acute cardiopulmonary process. Mild dextro scoliotic curvature
+++++++++++++++++++
+No acute abnormality demonstrated.
+
+Please provide your answer in the format of a radi
+++++++++++++++++++
+Negative for acute cardiopulmonary abnormality.
+
+Please provide your answer
+++++++++++++++++++
+Small left basilar atelectasis.
+
+Please provide the radiology report findings and
+++++++++++++++++++
+No acute radiographic cardiopulmonary process.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Acute exacerbation of chronic obstructive pulmonary disease.
+##
+++++++++++++++++++
+No active/acute cardiopulmonary disease.
+
+Please provide the radiology report
+++++++++++++++++++
+Normal chest.
+
+Please provide the radiology report findings and I will summarize them
+++++++++++++++++++
+Acute cardiopulmonary disease
+
+Please provide the radiology report findings and the
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide the radiology report findings
+++++++++++++++++++
+1. No acute radiographic cardiopulmonary process.
+
+Please provide the
+++++++++++++++++++
+No acute cardiopulmonary disease.
+##
+Finding: The heart is at
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+No acute abnormality.
+
+Please provide your summary of the radiology report findings
+++++++++++++++++++
+No acute findings.
+
+Please provide your summary of the radiology report findings in
+++++++++++++++++++
+No acute disease.
+
+Please provide the radiology report findings, and I will help
+++++++++++++++++++
+No acute findings
+
+Please provide the radiology report findings and the corresponding impressions
+++++++++++++++++++
+No acute cardiopulmonary disease. Mild cardiomegaly. Small bilater
+++++++++++++++++++
+No acute cardiopulmonary findings.
+
+Please provide the radiology report find
+++++++++++++++++++
+1. No acute cardiopulmonary disease. 2. Prominent bilater
+++++++++++++++++++
+No acute cardiopulmonary process.
+##
+Finding: Heart size and medi
+++++++++++++++++++
+1. No evidence of active disease. 2. Stent in abdomen.
+++++++++++++++++++
+Severe cardiomegaly with pulmonary vascular congestion and interstit
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide your answer in the format of
+++++++++++++++++++
+No acute findings. Chronic emphysema and pleural thickening.
+
+Please
+++++++++++++++++++
+1. No acute cardiopulmonary findings.
+
+Please provide the radi
+++++++++++++++++++
+Mild cardiomegaly, right upper lobe granuloma.
+
+Please provide your
+++++++++++++++++++
+Cardiomegaly with widening of the mediastinum and pulmonary vasc
+++++++++++++++++++
+No acute cardiopulmonary abnormality. Stable cardiomegaly.
+++++++++++++++++++
+No acute cardiopulmonary abnormalities.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+In this example, the radi
+++++++++++++++++++
+Chest x-ray, lateral, and decubitus. 1. No ac
+++++++++++++++++++
+No acute abnormality.
+
+Please provide the radiology report findings and I will
+++++++++++++++++++
+No acute cardiopulmonary abnormalities.
+
+Please provide the radiology report
+++++++++++++++++++
+No acute cardiopulmonary abnormality identified.
+
+Please provide your answer in
+++++++++++++++++++
+Diffuse interstitial markings, likely representing XXXX. No acute cardiop
+++++++++++++++++++
+No acute cardiopulmonary disease.
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+1. No evidence of active disease.
+
+Note: The examples provided are for illustration
+++++++++++++++++++
+Cardiomegaly with stable left chest AICD leads and no acute findings.
+++++++++++++++++++
+Normal chest
+
+Please provide the radiology report findings and I will help you summarize
+++++++++++++++++++
+No acute disease.
+
+Please provide your answer in the format of radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary process.
+
+Please provide the radiology report findings
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Clear lungs.
+
+Please provide the radiology report findings, and I will help you
+++++++++++++++++++
+No acute disease.
+
+Please provide your answer in the format of a radiology report,
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+1. New 3 cm mass in the right upper lobe, likely representing a benign
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Moderate pleural effusions, bibasilar airspace disease, and mild deg
+++++++++++++++++++
+1. No acute intrathoracic abnormality.
+
+Please provide the
+++++++++++++++++++
+Negative for acute cardiopulmonary abnormality.
+
+Please provide the radi
+++++++++++++++++++
+1. Severe emphysematous disease. 2. No acute cardiopul
+++++++++++++++++++
+No acute cardiopulmonary abnormality.
+
+Please provide the radiology report
+++++++++++++++++++
+Negative for acute abnormality.
+
+Please provide the radiology report findings and
+++++++++++++++++++
+1. Acute cardiac process (e.g. myocarditis, peric
+++++++++++++++++++
+No acute radiographic cardiopulmonary process.
+
+Please provide the radiology report

@@ -1,0 +1,241 @@
+
+------------------------------
+Starting for PubMedQA 5K-0.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 1569
+Final_Vocab: 1569
+
+------------------------------
+Starting for PubMedQA 5K-0.25...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 1569
+Size of added V_PAC: 392
+Final_Vocab: 1961
+
+------------------------------
+Starting for PubMedQA 5K-0.5...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 1569
+Size of added V_PAC: 784
+Final_Vocab: 2353
+
+------------------------------
+Starting for PubMedQA 5K-0.75...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 1569
+Size of added V_PAC: 1176
+Final_Vocab: 2745
+
+------------------------------
+Starting for PubMedQA 5K-1.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 1569
+Size of added V_PAC: 1569
+Final_Vocab: 3138
+
+------------------------------
+Starting for PubMedQA 10K-0.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2212
+Final_Vocab: 2212
+
+------------------------------
+Starting for PubMedQA 10K-0.25...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2212
+Size of added V_PAC: 553
+Final_Vocab: 2765
+
+------------------------------
+Starting for PubMedQA 10K-0.5...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2212
+Size of added V_PAC: 1106
+Final_Vocab: 3318
+
+------------------------------
+Starting for PubMedQA 10K-0.75...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2212
+Size of added V_PAC: 1659
+Final_Vocab: 3871
+
+------------------------------
+Starting for PubMedQA 10K-1.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2212
+Size of added V_PAC: 2212
+Final_Vocab: 4424
+
+------------------------------
+Starting for PubMedQA 15K-0.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2645
+Final_Vocab: 2645
+
+------------------------------
+Starting for PubMedQA 15K-0.25...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2645
+Size of added V_PAC: 661
+Final_Vocab: 3306
+
+------------------------------
+Starting for PubMedQA 15K-0.5...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2645
+Size of added V_PAC: 1322
+Final_Vocab: 3967
+
+------------------------------
+Starting for PubMedQA 15K-0.75...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2645
+Size of added V_PAC: 1983
+Final_Vocab: 4628
+
+------------------------------
+Starting for PubMedQA 15K-1.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2645
+Size of added V_PAC: 2645
+Final_Vocab: 5290
+
+------------------------------
+Starting for PubMedQA 20K-0.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2969
+Final_Vocab: 2969
+
+------------------------------
+Starting for PubMedQA 20K-0.25...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2969
+Size of added V_PAC: 742
+Final_Vocab: 3711
+
+------------------------------
+Starting for PubMedQA 20K-0.5...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2969
+Size of added V_PAC: 1484
+Final_Vocab: 4453
+
+------------------------------
+Starting for PubMedQA 20K-0.75...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2969
+Size of added V_PAC: 2226
+Final_Vocab: 5195
+
+------------------------------
+Starting for PubMedQA 20K-1.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2969
+Size of added V_PAC: 2969
+Final_Vocab: 5938
+
+------------------------------
+Starting for PubMedQA 25K-0.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3224
+Final_Vocab: 3224
+
+------------------------------
+Starting for PubMedQA 25K-0.25...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3224
+Size of added V_PAC: 806
+Final_Vocab: 4030
+
+------------------------------
+Starting for PubMedQA 25K-0.5...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3224
+Size of added V_PAC: 1612
+Final_Vocab: 4836
+
+------------------------------
+Starting for PubMedQA 25K-0.75...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3224
+Size of added V_PAC: 2418
+Final_Vocab: 5642
+
+------------------------------
+Starting for PubMedQA 25K-1.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3224
+Size of added V_PAC: 3224
+Final_Vocab: 6448
+
+------------------------------
+Starting for PubMedQA 30K-0.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3422
+Final_Vocab: 3422
+
+------------------------------
+Starting for PubMedQA 30K-0.25...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3422
+Size of added V_PAC: 855
+Final_Vocab: 4277
+
+------------------------------
+Starting for PubMedQA 30K-0.5...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3422
+Size of added V_PAC: 1711
+Final_Vocab: 5133
+
+------------------------------
+Starting for PubMedQA 30K-0.75...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3422
+Size of added V_PAC: 2566
+Final_Vocab: 5988
+
+------------------------------
+Starting for PubMedQA 30K-1.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 3422
+Size of added V_PAC: 3422
+Final_Vocab: 6844
+
+------------------------------
+Starting for PubMedQA 0K-0.0...
+V_PAC not in V_PLM 84305
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 9528
+Final_Vocab: 9528

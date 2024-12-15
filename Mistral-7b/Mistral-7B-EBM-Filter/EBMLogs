@@ -1,0 +1,42 @@
+
+------------------------------
+Starting for EBM 5K...
+V_PAC not in V_PLM 1610
+V_TGT not in V_PLM: 24330
+V_TGT not in V_PLM and in V_PAC: 1103
+Final_Vocab: 886
+
+------------------------------
+Starting for EBM 10K...
+V_PAC not in V_PLM 4600
+V_TGT not in V_PLM: 24330
+V_TGT not in V_PLM and in V_PAC: 2519
+Final_Vocab: 2036
+
+------------------------------
+Starting for EBM 15K...
+V_PAC not in V_PLM 8045
+V_TGT not in V_PLM: 24330
+V_TGT not in V_PLM and in V_PAC: 3682
+Final_Vocab: 2952
+
+------------------------------
+Starting for EBM 20K...
+V_PAC not in V_PLM 11844
+V_TGT not in V_PLM: 24330
+V_TGT not in V_PLM and in V_PAC: 4590
+Final_Vocab: 3646
+
+------------------------------
+Starting for EBM 25K...
+V_PAC not in V_PLM 15819
+V_TGT not in V_PLM: 24330
+V_TGT not in V_PLM and in V_PAC: 5411
+Final_Vocab: 4252
+
+------------------------------
+Starting for EBM 30K...
+V_PAC not in V_PLM 20005
+V_TGT not in V_PLM: 24330
+V_TGT not in V_PLM and in V_PAC: 6126
+Final_Vocab: 4800

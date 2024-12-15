@@ -1,0 +1,76 @@
+--------------------
+EBM_Lookup-SplitMoreThan1
+--------------------
+BART_Tok: 2.65
+EBM_Lookup_50	2.4/50	
+EBM_Lookup_100	2.34/100	
+EBM_Lookup_150	2.29/150	
+EBM_Lookup_200	2.26/200	
+EBM_Lookup_250	2.24/250	
+EBM_Lookup_300	2.23/300	
+EBM_Lookup_350	2.21/350	
+EBM_Lookup_400	2.19/400	
+EBM_Lookup_450	2.18/450	
+EBM_Lookup_500	2.18/500	
+--------------------
+EBM_Lookup-SplitMoreThan1-AdaptBPE
+--------------------
+BART_Tok: 2.65
+EBM_Lookup_50   : 2.37
+EBM_Lookup_100  : 2.21
+EBM_Lookup_150  : 2.11
+EBM_Lookup_200  : 2.01
+EBM_Lookup_250  : 1.93
+EBM_Lookup_300  : 1.85
+EBM_Lookup_350  : 1.79
+EBM_Lookup_400  : 1.73
+
+-------------
+EBM_Lookup-SplitMoreThan1-Subwords
+--------------------
+BART_Tok: 2.65
+EBM_Lookup_50	2.48/48	
+EBM_Lookup_100	2.44/98	
+EBM_Lookup_150	2.41/148	
+EBM_Lookup_200	2.39/197	
+EBM_Lookup_250	2.37/247	
+EBM_Lookup_300	2.36/296	
+EBM_Lookup_350	2.35/346	
+EBM_Lookup_400	2.34/396
+-------------
+EBM_Lookup-SplitMoreThan1-Subwords-AdaptBPE
+--------------------
+BART_Tok: 2.65
+EBM_Lookup_50   : 2.62
+EBM_Lookup_100  : 2.56
+EBM_Lookup_150  : 2.51
+EBM_Lookup_200  : 2.48
+EBM_Lookup_250  : 2.44
+EBM_Lookup_300  : 2.4
+EBM_Lookup_350  : 2.37
+EBM_Lookup_400  : 2.35
+
+-------------
+EBM_Lookup_SplitMoreThan1_Also_Add_As_Subwords
+--------------------
+BART_Tok: 2.65
+EBM_Lookup_50	2.4/54	
+EBM_Lookup_100	2.33/115	
+EBM_Lookup_150	2.29/173	
+EBM_Lookup_200	2.26/228	
+EBM_Lookup_250	2.24/284	
+EBM_Lookup_300	2.22/338	
+EBM_Lookup_350	2.2/393	
+EBM_Lookup_400	2.19/447	
+
+-------------
+EBM_Lookup_SplitMoreThan1_Also_Add_As_Subwords-AdaptBPE
+--------------------
+EBM_Lookup_50   : 2.36
+EBM_Lookup_100  : 2.21
+EBM_Lookup_150  : 2.09
+EBM_Lookup_200  : 1.99
+EBM_Lookup_250  : 1.91
+EBM_Lookup_300  : 1.83
+EBM_Lookup_350  : 1.77
+EBM_Lookup_400  : 1.72

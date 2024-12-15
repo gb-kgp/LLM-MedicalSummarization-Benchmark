@@ -1,0 +1,42 @@
+
+------------------------------
+Starting for PubMedQA 5K...
+V_PAC not in V_PLM 1610
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 739
+Final_Vocab: 636
+
+------------------------------
+Starting for PubMedQA 10K...
+V_PAC not in V_PLM 4600
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 1496
+Final_Vocab: 1351
+
+------------------------------
+Starting for PubMedQA 15K...
+V_PAC not in V_PLM 8045
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2016
+Final_Vocab: 1852
+
+------------------------------
+Starting for PubMedQA 20K...
+V_PAC not in V_PLM 11844
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2390
+Final_Vocab: 2219
+
+------------------------------
+Starting for PubMedQA 25K...
+V_PAC not in V_PLM 15819
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2697
+Final_Vocab: 2520
+
+------------------------------
+Starting for PubMedQA 30K...
+V_PAC not in V_PLM 20005
+V_TGT not in V_PLM: 9528
+V_TGT not in V_PLM and in V_PAC: 2969
+Final_Vocab: 2785

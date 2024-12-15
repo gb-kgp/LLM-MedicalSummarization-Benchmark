@@ -1,0 +1,25 @@
+-------------
+PubMedQA-Lookup_SplitMoreThan1_Also_Add_As_Subwords
+--------------------
+BART_Tok: 2.58
+PubMedQA_Lookup_50	2.39/51	
+PubMedQA_Lookup_100	2.32/105	
+PubMedQA_Lookup_150	2.27/156	
+PubMedQA_Lookup_200	2.23/213	
+PubMedQA_Lookup_250	2.2/266	
+PubMedQA_Lookup_300	2.17/319	
+PubMedQA_Lookup_350	2.15/371	
+PubMedQA_Lookup_400	2.13/423	
+
+
+-------------
+PubMedQA-Lookup_SplitMoreThan1_Also_Add_As_Subwords-ABPE
+--------------------
+PubMedQA_Lookup_50 :2.32
+PubMedQA_Lookup_100 :2.15
+PubMedQA_Lookup_150 :2.03
+PubMedQA_Lookup_200 :1.93
+PubMedQA_Lookup_250 :1.83
+PubMedQA_Lookup_300 :1.75
+PubMedQA_Lookup_350 :1.67
+PubMedQA_Lookup_400 :1.6

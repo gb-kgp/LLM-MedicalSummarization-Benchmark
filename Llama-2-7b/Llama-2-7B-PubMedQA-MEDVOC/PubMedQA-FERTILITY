@@ -1,0 +1,62 @@
+-------------
+All_OOV
+--------------------
+BART_Tok: 2.53
+data	0.0	0.25	0.5	0.75	1.0	
+0K	1.37/9992	
+5K	1.8/1726	1.76/2157	1.73/2589	1.71/3020	1.69/3452	
+10K	1.72/2470	1.67/3087	1.63/3705	1.61/4322	1.59/4940	
+15K	1.68/2955	1.62/3693	1.58/4432	1.55/5171	1.54/5910	
+20K	1.65/3303	1.59/4128	1.55/4954	1.52/5780	1.5/6606	
+25K	1.62/3569	1.56/4461	1.51/5353	1.48/6245	1.46/7138	
+30K	1.62/3794	1.55/4742	1.5/5691	1.47/6639	1.45/7588	
+-------------
+AdaptBPE_MEDVOC
+--------------------
+BART_Tok: 2.53
+da	0.0	        0.25    	0.5     	0.75    	1.0	
+0K	1.33/9992	
+5K	1.67/1726	1.63/2157	1.6/2589	1.58/3020	1.57/3452	
+10K	1.52/2470	1.47/3087	1.44/3705	1.42/4322	1.39/4940	
+15K	1.47/2955	1.41/3693	1.38/4432	1.35/5171	1.33/5910	
+20K	1.42/3303	1.36/4128	1.33/4954	1.3/5780	1.28/6606	
+25K	1.41/3569	1.34/4461	1.31/5353	1.28/6245	1.26/7138	
+30K	1.39/3794	1.32/4742	1.29/5691	1.27/6639	1.24/7588
+
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/0K_0.0_.... Frag Score:1.33
+
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/5K_0.0_.... Frag Score:1.67
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/5K_0.25_.... Frag Score:1.63
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/5K_0.5_.... Frag Score:1.6
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/5K_0.75_.... Frag Score:1.58
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/5K_1.0_.... Frag Score:1.57
+
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/10K_0.0_.... Frag Score:1.52
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/10K_0.25_.... Frag Score:1.47
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/10K_0.5_.... Frag Score:1.44
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/10K_0.75_.... Frag Score:1.42
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/10K_1.0_.... Frag Score:1.39
+
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/15K_0.0_.... Frag Score:1.47
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/15K_0.25_.... Frag Score:1.41
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/15K_0.5_.... Frag Score:1.38
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/15K_0.75_.... Frag Score:1.35
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/15K_1.0_.... Frag Score:1.33
+
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/20K_0.0_.... Frag Score:1.42
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/20K_0.25_.... Frag Score:1.36
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/20K_0.5_.... Frag Score:1.33
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/20K_0.75_.... Frag Score:1.3
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/20K_1.0_.... Frag Score:1.28
+
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/25K_0.0_.... Frag Score:1.41
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/25K_0.25_.... Frag Score:1.34
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/25K_0.5_.... Frag Score:1.31
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/25K_0.75_.... Frag Score:1.28
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/25K_1.0_.... Frag Score:1.26
+
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/30K_0.0_.... Frag Score:1.39
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/30K_0.25_.... Frag Score:1.32
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/30K_0.5_.... Frag Score:1.29
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/30K_0.75_.... Frag Score:1.27
+Done with ./PubMedQA_Vocabs_MEDVOC_Llama2/30K_1.0_.... Frag Score:1.24

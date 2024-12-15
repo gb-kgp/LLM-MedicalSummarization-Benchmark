@@ -1,0 +1,241 @@
+
+------------------------------
+Starting for EBM 5K-0.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 2789
+Final_Vocab: 2789
+
+------------------------------
+Starting for EBM 5K-0.25...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 2789
+Size of added V_PAC: 697
+Final_Vocab: 3486
+
+------------------------------
+Starting for EBM 5K-0.5...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 2789
+Size of added V_PAC: 1394
+Final_Vocab: 4183
+
+------------------------------
+Starting for EBM 5K-0.75...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 2789
+Size of added V_PAC: 2091
+Final_Vocab: 4880
+
+------------------------------
+Starting for EBM 5K-1.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 2789
+Size of added V_PAC: 2789
+Final_Vocab: 5578
+
+------------------------------
+Starting for EBM 10K-0.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 4441
+Final_Vocab: 4441
+
+------------------------------
+Starting for EBM 10K-0.25...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 4441
+Size of added V_PAC: 1110
+Final_Vocab: 5551
+
+------------------------------
+Starting for EBM 10K-0.5...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 4441
+Size of added V_PAC: 2220
+Final_Vocab: 6661
+
+------------------------------
+Starting for EBM 10K-0.75...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 4441
+Size of added V_PAC: 3330
+Final_Vocab: 7771
+
+------------------------------
+Starting for EBM 10K-1.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 4441
+Size of added V_PAC: 4441
+Final_Vocab: 8882
+
+------------------------------
+Starting for EBM 15K-0.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 5562
+Final_Vocab: 5562
+
+------------------------------
+Starting for EBM 15K-0.25...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 5562
+Size of added V_PAC: 1390
+Final_Vocab: 6952
+
+------------------------------
+Starting for EBM 15K-0.5...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 5562
+Size of added V_PAC: 2781
+Final_Vocab: 8343
+
+------------------------------
+Starting for EBM 15K-0.75...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 5562
+Size of added V_PAC: 4171
+Final_Vocab: 9733
+
+------------------------------
+Starting for EBM 15K-1.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 5562
+Size of added V_PAC: 5562
+Final_Vocab: 11124
+
+------------------------------
+Starting for EBM 20K-0.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 6480
+Final_Vocab: 6480
+
+------------------------------
+Starting for EBM 20K-0.25...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 6480
+Size of added V_PAC: 1620
+Final_Vocab: 8100
+
+------------------------------
+Starting for EBM 20K-0.5...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 6480
+Size of added V_PAC: 3240
+Final_Vocab: 9720
+
+------------------------------
+Starting for EBM 20K-0.75...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 6480
+Size of added V_PAC: 4860
+Final_Vocab: 11340
+
+------------------------------
+Starting for EBM 20K-1.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 6480
+Size of added V_PAC: 6480
+Final_Vocab: 12960
+
+------------------------------
+Starting for EBM 25K-0.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7224
+Final_Vocab: 7224
+
+------------------------------
+Starting for EBM 25K-0.25...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7224
+Size of added V_PAC: 1806
+Final_Vocab: 9030
+
+------------------------------
+Starting for EBM 25K-0.5...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7224
+Size of added V_PAC: 3612
+Final_Vocab: 10836
+
+------------------------------
+Starting for EBM 25K-0.75...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7224
+Size of added V_PAC: 5418
+Final_Vocab: 12642
+
+------------------------------
+Starting for EBM 25K-1.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7224
+Size of added V_PAC: 7224
+Final_Vocab: 14448
+
+------------------------------
+Starting for EBM 30K-0.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7817
+Final_Vocab: 7817
+
+------------------------------
+Starting for EBM 30K-0.25...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7817
+Size of added V_PAC: 1954
+Final_Vocab: 9771
+
+------------------------------
+Starting for EBM 30K-0.5...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7817
+Size of added V_PAC: 3908
+Final_Vocab: 11725
+
+------------------------------
+Starting for EBM 30K-0.75...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7817
+Size of added V_PAC: 5862
+Final_Vocab: 13679
+
+------------------------------
+Starting for EBM 30K-1.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 7817
+Size of added V_PAC: 7817
+Final_Vocab: 15634
+
+------------------------------
+Starting for EBM 0K-0.0...
+V_PAC not in V_PLM 86031
+V_TGT not in V_PLM: 24966
+V_TGT not in V_PLM and in V_PAC: 24966
+Final_Vocab: 24966
