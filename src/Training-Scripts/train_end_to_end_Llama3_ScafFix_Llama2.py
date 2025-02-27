@@ -19,7 +19,7 @@ from config import CustomArgumentParser
 import json
 import math
 import numpy as np
-hf_token = "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"
+
 
 def round_to_nearest_multiple(vocabulary_size, multiple):
     rounded_size = math.ceil(vocabulary_size / multiple) * multiple
@@ -115,6 +115,8 @@ def main(args, training_args):
     else:
         val_dataset = None
 
+    hf_token = args.hf_token
+    
     # Load the tokenizer
     tokenizer = AutoTokenizer.from_pretrained(args.tokenizer_name_or_path)
     source_tokenizer = AutoTokenizer.from_pretrained(model_id,token=hf_token)
