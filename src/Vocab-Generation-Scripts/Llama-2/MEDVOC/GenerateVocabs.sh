@@ -1,4 +1,23 @@
 #!/bin/bash
+<<COMM
+This script generates the vocabularies for the MEDVOC dataset using the Llama2 model. 
+You need to prepare the dataset first. The format should be .txt file with one document per line.
+The dataset for PAC should be the Source documents and for TGT should be the reference summaries for target dataset. 
+
+One thing you need to try out is the value of v_size for TGT dataset. Here it is set to 5000, which might throw an error. However, the error message will show the desired vocabulary size, please set v_size to that.
+For PAC this value is set to nearest 5000s compared to the original vocabulary size (32000 for Llama2).
+COMM
+
+python GeneratePAC_TGT.py --input_path /path/to/EBM/Dataset.txt \
+                          --v_size 5000 \
+                          --dataset EBM
+
+python GeneratePAC_TGT.py --input_path /path/to/PAC/Dataset.txt \
+                          --v_size 35000 \
+                          --dataset PAC
+
+
+
 
 for data in EBM
 do
@@ -26,5 +45,4 @@ do
                         -dir_dump ./"$data"_Vocabs_MEDVOC_Llama2 \
                         -message "All_OOV" \
                           
-
 done
