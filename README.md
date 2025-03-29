@@ -25,7 +25,7 @@ We use three datasets in this study: EBM, PubMedQA, and BioASQ.
 | BioASQ-$\mathcal{S}$ | 496 | 73 | 58 | 47.12 | 50.00 | 52.00 | 57.15 | 8.70 | 9.10 | 4.76 | 4.55 | 4.11 |
 
 ## Generating Vocabulary
-We provide a sample shell script for generating MEDVOC vocabulary for Llama-2 using EBM dataset.
+We provide a sample shell script for generating MEDVOC vocabulary for Llama-2 using EBM dataset. The relevant python files are present in ```src/Vocab-Generation-Scripts/Llama-2/MEDVOC```
 
 ```
 #!/bin/bash
