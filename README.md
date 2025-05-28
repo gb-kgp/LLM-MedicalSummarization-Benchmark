@@ -1,6 +1,6 @@
 # LLM-MedicalSummarization-Benchmark
 
-This is the official codebase for the ACL Submission.
+This is the official codebase for the ACL Submission. Please check our [arXiv](http://arxiv.org/abs/2505.21242) for more details.
 
 ## Models covererd in the study
 We cover three models in this study
