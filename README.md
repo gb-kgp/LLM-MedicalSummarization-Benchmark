@@ -7,8 +7,10 @@ We cover three models in this study
 | Model     | Base Vocabulary | huggingfcae-model-id                                                          | Tokenization Class | #Params |
 |-----------|-----------------|-------------------------------------------------------------------------------|--------------------|---------|
 | Llama-3.1 | 128256          | [meta-llama/Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B)     | TikToken-BPE       | 8B      |
+| Qwen2     | 151646          | [Qwen/Qwen2-7B](https://huggingface.co/Qwen/Qwen2-7B)                         | ByteLevelBPE       | 7B      |
 | Llama-2   | 32000           | [meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf)   | SentencePiece-BPE  | 7B      |
 | Mistral   | 32000           | [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) | SentencePiece-BPE  | 7B      |
+
 
 
 ## Data Description
